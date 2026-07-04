@@ -1,4 +1,4 @@
-package com.example.assignment6
+package com.nadb.assignment
 
 import io.flutter.embedding.android.FlutterActivity
 
